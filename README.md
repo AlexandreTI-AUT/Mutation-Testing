@@ -135,9 +135,9 @@ Let's check our coverage?
 
 
 
-Mas afinal, nesse exemplo simples não tivemos nenhum problema, onde estava o nosso erro?
+But after all, in this simple example we had no problem, where was our error?
 
-Exatamente, esquecemos de fazer a validação se o atributo de **idade** foi settado corretamente, vamos ver o que o **Pitest** tem a dizer?
+Exactly, we forgot to do the validation if the **age** attribute was set correctly, let's see what **Pitest** has to say?
 
 ## Entering more into the tool:
 
@@ -153,7 +153,7 @@ Or run the plugin directly in your IDE by clicking on the **pitest:mutationCover
 
 ![Captura de tela de 2021-03-16 23-41-57](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/h1ke2dm7umue1kxfbvbq.png)
 
-Após fazer a execução e tiver configurado direitinho o seu projeto até aqui, você irá ter o seguinte resultado:
+After running and configuring your project properly so far, you will get the following result:
 
 ![Captura de tela de 2021-03-16 23-51-46](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xfv8gcr776fmuroanng5.png) 
 
